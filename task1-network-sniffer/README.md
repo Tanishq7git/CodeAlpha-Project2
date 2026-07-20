@@ -18,10 +18,6 @@ sudo python3 network_sniffer.py
 ```
 Root/admin privileges are required — raw packet capture needs elevated access.
 
-## Screenshot
-_Add a screenshot of the terminal output here:_
-`![Sniffer running](screenshots/sniffer_output.png)`
-
 ## What I Learned
 - How data flows through the network across layers (IP → TCP/UDP → payload)
 - The basic structure of a network packet and its headers
