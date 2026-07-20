@@ -29,8 +29,4 @@ python3 vulnerable_app.py     # vulnerable version, for demonstration
 python3 secure_app.py         # remediated version
 ```
 
-## Screenshot
-_Add a screenshot of the Bandit scan output and/or a before/after attack test:_
-`![Bandit scan results](screenshots/bandit_scan.png)`
-
 See `security_review_report.md` for the full write-up.
